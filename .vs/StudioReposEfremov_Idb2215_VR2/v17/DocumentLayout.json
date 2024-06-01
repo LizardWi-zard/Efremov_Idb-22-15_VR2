@@ -1,0 +1,783 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D\\StudioReposEfremov_Idb2215_VR2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog3.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog2.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog.htm||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\.vsconfig||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitattributes||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRSettings.asset||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRPackageSettings.asset||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VFXManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VersionControlSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\UnityConnectSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TimeManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TagManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\SceneTemplateSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\QualitySettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectVersion.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PresetManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\Physics2DSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PackageManagerSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\NavMeshAreas.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\MemorySettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\InputManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\GraphicsSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorBuildSettings.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\DynamicsManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ClusterInputManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\AudioManager.asset||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\packages-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.fbx.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\XR.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\StreamingAssets.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR_Resources.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Scenes.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Plugins.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Materials.meta||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpgradeLog3.htm",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog3.htm",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog3.htm",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog3.htm",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog3.htm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-01T23:06:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpgradeLog2.htm",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog2.htm",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog2.htm",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog2.htm",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog2.htm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-01T23:06:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpgradeLog.htm",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog.htm",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog.htm",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog.htm",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\UpgradeLog.htm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-01T23:06:11.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".vsconfig",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\.vsconfig",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\.vsconfig",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\.vsconfig",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\.vsconfig",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:11.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitignore",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitignore",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitignore",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:11.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitattributes",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitattributes",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitattributes",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitattributes",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\.gitattributes",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:11.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XRSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:11.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "XRPackageSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRPackageSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRPackageSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRPackageSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\XRPackageSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:11.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VFXManager.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VFXManager.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VFXManager.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VFXManager.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VFXManager.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:10.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VersionControlSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VersionControlSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VersionControlSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VersionControlSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\VersionControlSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:10.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UnityConnectSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\UnityConnectSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\UnityConnectSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\UnityConnectSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\UnityConnectSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:10.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeManager.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TimeManager.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TimeManager.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TimeManager.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TimeManager.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:10.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TagManager.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TagManager.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TagManager.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TagManager.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\TagManager.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:10.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SceneTemplateSettings.json",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\SceneTemplateSettings.json",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\SceneTemplateSettings.json",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\SceneTemplateSettings.json",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\SceneTemplateSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T23:06:10.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "QualitySettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\QualitySettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\QualitySettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\QualitySettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\QualitySettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:10.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectVersion.txt",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectVersion.txt",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectVersion.txt",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectVersion.txt",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectVersion.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-01T23:06:10.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ProjectSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:10.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PresetManager.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PresetManager.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PresetManager.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PresetManager.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PresetManager.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:10.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Physics2DSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\Physics2DSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\Physics2DSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\Physics2DSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\Physics2DSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:09.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PackageManagerSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PackageManagerSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PackageManagerSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PackageManagerSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\PackageManagerSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:09.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavMeshAreas.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\NavMeshAreas.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\NavMeshAreas.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\NavMeshAreas.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\NavMeshAreas.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:09.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MemorySettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\MemorySettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\MemorySettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\MemorySettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\MemorySettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:09.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InputManager.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\InputManager.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\InputManager.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\InputManager.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\InputManager.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:09.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GraphicsSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\GraphicsSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\GraphicsSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\GraphicsSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\GraphicsSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:09.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditorSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:09.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EditorBuildSettings.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorBuildSettings.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorBuildSettings.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorBuildSettings.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\EditorBuildSettings.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:09.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DynamicsManager.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\DynamicsManager.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\DynamicsManager.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\DynamicsManager.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\DynamicsManager.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:08.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClusterInputManager.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ClusterInputManager.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ClusterInputManager.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ClusterInputManager.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\ClusterInputManager.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:08.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AudioManager.asset",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\AudioManager.asset",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\AudioManager.asset",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\AudioManager.asset",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\ProjectSettings\\AudioManager.asset",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:08.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "packages-lock.json",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\packages-lock.json",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\packages-lock.json",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\packages-lock.json",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\packages-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T23:06:08.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "manifest.json",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\manifest.json",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\manifest.json",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\manifest.json",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Packages\\manifest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T23:06:08.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:08.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.mtl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:07.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.fbx.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.fbx.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.fbx.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.fbx.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\\u0422\u043E\u043A\u0430\u0440\u043D\u044B\u0439 \u043F\u043E \u043C\u0435\u0442\u0430\u043B\u043B\u0443.fbx.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:07.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "XR.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\XR.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\XR.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\XR.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\XR.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:03.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "work with JSON and XML.cs.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:03.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "work with JSON and XML.cs",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\work with JSON and XML.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:06:03.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StreamingAssets.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\StreamingAssets.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\StreamingAssets.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\StreamingAssets.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\StreamingAssets.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:03.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SteamVR_Resources.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR_Resources.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR_Resources.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR_Resources.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR_Resources.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:03.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SteamVR.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\SteamVR.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:02.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Scenes.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Scenes.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Scenes.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Scenes.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Scenes.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:02.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Plugins.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Plugins.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Plugins.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Plugins.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Plugins.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:02.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Move tailstock.cs.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:02.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Move tailstock.cs",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Move tailstock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T23:06:02.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "metal-10.jpg.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:06:01.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "metal-10.jpg",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\metal-10.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-01T23:06:00.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Materials.meta",
+              "DocumentMoniker": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Materials.meta",
+              "RelativeDocumentMoniker": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Materials.meta",
+              "ToolTip": "D:\\D\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Materials.meta",
+              "RelativeToolTip": "..\\StudioRepos\\Efremov_Idb-22-15_VR2\\Assets\\Materials.meta",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T23:05:55.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
